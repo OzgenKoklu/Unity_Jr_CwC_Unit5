@@ -3,6 +3,10 @@ Unity Learn JR path is awesome, I would suggest it to anyone who wants to learn 
 
 Here is my profile in Unity Learn: https://learn.unity.com/u/ozgen_koklu
 
+28.04.2022 - Added challenge scene to the repo. Including a whack 'em all style game. 
+
+Optional challenges from main prototype still missing. Will add them soon.
+
 # Short Gameplay clip - (coming after I complete bonus challenges)
 
 This was the most complete pack yet. It is completely playable, and if you wanna play it, here is the link for the WebGL version: https://play.unity.com/mg/other/webgl-builds-185685
@@ -14,7 +18,8 @@ I find it fun to complete them, I will soon complete them when I have some spare
 -Mouse inputs\
 -Keeping score, adding to score, resetting score\
 -Game over, restart\
--adding difficulty settings.
+-adding difficulty settings\
+-adding an on screen timer.
 
 # Notes
 This project was done for learning purposes.\
